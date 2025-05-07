@@ -13,7 +13,8 @@ HTML5
 CSS3 (no frameworks)
 
 💻 Live Demo
-View Website <!-- Replace # with your live site URL, like GitHub Pages -->
+View Website : https://arunachalampanneerselavm.github.io/portfolio-simple-website/
+
 
 
 
